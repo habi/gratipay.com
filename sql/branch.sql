@@ -13,8 +13,11 @@ BEGIN;
     , long_description      text                        NOT NULL DEFAULT ''
     , long_description_raw  text                        NOT NULL DEFAULT ''
     , long_description_type text                        NOT NULL DEFAULT ''
+    , team                  text                        REFERENCES teams
+                                                            ON UPDATE CASCADE ON DELETE RESTRICT
     , mtime                 timestamp with time zone    NOT NULL
     , UNIQUE (package_manager_id, name)
+    , UNIQUE (team)
      );
 
     CREATE TABLE package_emails
