@@ -37,24 +37,28 @@ these Terms.
 
 1. General Rules
 
-  1. The Service is a platform to facilitate payments for goods or services
-     ("Work").
-
   1. A Participant may establish a Project on the Service. The Participant who
      establishes a Project is the Project Owner. Projects may optionally have
 other Participants as Collaborators.
 
-  1. A Participant may give money to a Project. A Participant who gives money
+  1. A Participant may give payments to a Project. A Participant who gives payments
      to a Project is a Giver.
+     
+  1. Projects and their Work must be consistent with Gratipay's [Brand
+     Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
+Use Policy.
 
-1. Obligations of Project Owners
+  1. Gratipay reserves the right to reject, suspend, or remove a Project at any
+     time, and for any reason.
+
+1. Terms for Project Owners
 
   1. A Project can use the Service to receive payments from Givers for Work
      provided by the Project. When you establish a Project on the Service, you
 agree that payments will be used exclusively to support the Work described in
 your Project's profile.
 
-  1. By accepting a payment from a Giver, the Project forms an agreement with
+  1. By accepting a payment from a Giver, the Project Owner forms an agreement with
      that Giver to provide the Project's Work. The Service is a platform to
 facilitate this agreement. Gratipay is not a party to the agreement, and is not
 responsible to either the Project or the Giver if either party breaches the
@@ -65,20 +69,13 @@ or services).
      Owner has provided a working withdrawal mechanism for receiving payments
 (e.g. bank account information).
 
-  1. Projects and their Work must be consistent with Gratipay's [Brand
-     Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
-Use Policy.
-
-  1. Gratipay reserves the right to reject, suspend, or remove a Project at any
-     time, and for any reason.
-
   1. Establishing a Project on Gratipay involves an application and approval
      process. As part of this process, the Gratipay community will have the
 opportunity to publicly evaluate and provide commentary about the Project.
 However, all decisions regarding whether to accept, reject, suspend, remove, or
 take any other action regarding a Project belong solely to Gratipay.
 
-1. Obligations of Collaborators
+1. Terms for Collaborators
 
   1. Projects can use the Service to distribute payments to Collaborators.
 
@@ -98,7 +95,7 @@ the Collaborator fails to provide the promised goods or services).
 between the Project's Owner and Collaborators regarding the allocation of
 payments is solely between those parties.
 
-1. Obligations of Givers
+1. Terms for Givers
 
   1. When you make a payment to a Project, it is a payment to fund the Work
      described in the Project's profile. You understand and acknowledge that
