@@ -39,7 +39,7 @@ these Terms.
 
   1. A Participant may establish a Project on the Service. The Participant who
      establishes a Project is the Project Owner. Projects may optionally have
-other Participants as Collaborators.
+other Participants as Collaborators. The Project Owner is also a Collaborator.
 
   1. A Participant may give payments to a Project. A Participant who gives payments
      to a Project is a Giver.
@@ -83,7 +83,7 @@ take any other action regarding a Project belong solely to Gratipay.
      Project are made exclusively because of your collaboration in the Work
 described in the Project's profile.
 
-  1. By accepting a payment from a Project, the Collaborator forms an agreement
+  1. By becoming a Collaborator, the Collaborator forms an agreement
      with that Project to collaborate in the Work described in the Project's
 profile. The Service is a platform to facilitate this agreement. Gratipay is
 not a party to the agreement, and is not responsible to either the Project or
