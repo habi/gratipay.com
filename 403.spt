@@ -7,7 +7,7 @@ banner = "Please sign in"
 Please {% include "templates/sign-in-using.html" %} to continue.
 {% endblock %}
 [---] application/json via stdlib_percent
-{ "error_code": 401
+{ "error_code": 403
 , "error_message_short": "Unauthenticated"
 , "error_message_long": "Please retry your request with authentication."
  }
