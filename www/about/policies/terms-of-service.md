@@ -37,6 +37,9 @@ these Terms.
 
 1. General Terms
 
+  1. The Service is a platform to facilitate payments for goods or services
+     ("Work").
+
   1. A Participant may establish a Project on the Service. The Participant who
      establishes a Project is the Project Owner.
 
@@ -53,12 +56,10 @@ these Terms.
 on the Service, you agree that payments will be used exclusively to support the
 Work described in your Project's profile.
 
-  1. By accepting a payment from a Giver, the Project Owner forms an agreement
-     with that Giver to provide the Project's Work. The Service is a platform
-to facilitate this agreement. Gratipay is not a party to the agreement, and is
-not responsible to either the Project Owner or the Giver if either party
-breaches the terms of the agreement (e.g. if the Project Owner fails to provide
-the promised goods or services).
+  1. Gratipay is not a party to any agreement between Project Owners and
+     Givers, and is not responsible to either the Project Owner or the Giver if
+either party breaches the terms of any such agreement (e.g. if the Project
+Owner fails to provide the promised goods or services).
 
   1. A Project Owner can only begin receiving payments from Givers once the
      Project Owner has provided a working withdrawal mechanism for receiving
@@ -82,12 +83,10 @@ take any other action regarding a Project belong solely to Gratipay.
      Project Owner are made exclusively because of your collaboration in the
 Work described in the Project's profile.
 
-  1. By becoming a Collaborator, the Collaborator forms an agreement with that
-     Project Owner to collaborate in the Work described in the Project's
-profile. The Service is a platform to facilitate this agreement. Gratipay is
-not a party to the agreement, and is not responsible to either the Project
-Owner or the Collaborator if either party breaches the terms of the agreement
-(e.g. if the Collaborator fails to provide the promised goods or services).
+  1. Gratipay is not a party to any agreement between Project Owners and
+     Collaborators, and is not responsible to either the Project Owner or the
+Collaborator if either party breaches the terms of any such agreement (e.g. if
+the Collaborator fails to provide the promised goods or services).
 
   1. Gratipay does not determine how payments are allocated and is not
      responsible for how Projects internally distribute payments. The agreement
