@@ -35,7 +35,7 @@ or damage arising from your failure to keep your account secure.
 your legal guardian must consent to your use and must agree to be bound by
 these Terms.
 
-1. General Rules
+1. General Terms
 
   1. A Participant may establish a Project on the Service. The Participant who
      establishes a Project is the Project Owner. Projects may optionally have
