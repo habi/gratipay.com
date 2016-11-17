@@ -45,10 +45,6 @@ these Terms.
 
   1. A Participant may make payments to a Project Owner via a Project. A
      Participant who makes payments via a Project is a Giver.
-     
-  1. Projects and their Work must be consistent with Gratipay's [Brand
-     Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
-Use Policy.
 
   1. Gratipay reserves the right to reject, suspend, or remove a Project at any
      time, and for any reason.
@@ -204,6 +200,8 @@ disclosure policy](/about/security/).
     * Posting anyone's personal or confidential information, such as social
       security numbers, credit card numbers, street addresses, phone numbers,
 confidential ID numbers, or account passwords, without their permission.
+
+    * Aggressive trolling or activism.
 
     * Account hijacking, including any access to or use of another
       Participant's account without their permission.
