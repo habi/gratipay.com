@@ -38,8 +38,10 @@ these Terms.
 1. General Terms
 
   1. A Participant may establish a Project on the Service. The Participant who
-     establishes a Project is the Project Owner. Projects may optionally have
-other Participants as Collaborators. The Project Owner is also a Collaborator.
+     establishes a Project is the Project Owner.
+
+  1. Projects may optionally have other Participants as Collaborators. The
+     Project Owner is also a Collaborator.
 
   1. A Participant may make payments to a Project Owner via a Project. A
      Participant who makes payments via a Project is a Giver.
