@@ -53,8 +53,8 @@ these Terms.
 
   1. A Project Owner can use the Service to receive payments from Givers for
      Work provided by the Project's Collaborators. When you establish a Project
-on the Service, you agree that payments will be used exclusively to support the
-Work described in your Project's profile.
+on the Service, you agree that payments via the Project will be used
+exclusively to support the Work described in the Project's profile.
 
   1. Gratipay is not a party to any agreement between Project Owners and
      Givers, and is not responsible to either the Project Owner or the Giver if
@@ -89,17 +89,17 @@ Collaborator if either party breaches the terms of any such agreement (e.g. if
 the Collaborator fails to provide the promised goods or services).
 
   1. Gratipay does not determine how payments are allocated and is not
-     responsible for how Projects internally distribute payments. The agreement
-between the Project's Owner and Collaborators regarding the allocation of
+     responsible for how Project Owners distribute payments. The agreement
+between the Project's Owner and other Collaborators regarding the allocation of
 payments is solely between those parties.
 
 1. Terms for Givers
 
-  1. When you make a payment to a Project Owner, it is a payment to fund the
-     Work described in the Project's profile. You understand and acknowledge
-that your payment does not entitle you personally to receive any goods or
-services from the Project Owner, unless the Project Owner explicitly offers
-those things to Givers.
+  1. When you make a payment via a Project to a Project Owner, it is a payment
+     to fund the Work described in the Project's profile. You understand and
+acknowledge that your payment does not entitle you personally to receive any
+goods or services from the Project Owner, unless the Project Owner explicitly
+offers those things to Givers.
 
   1. Gratipay is not obligated to provide refunds under any circumstance.
      Project Owners are responsible for producing the Work they offer. Gratipay
@@ -234,15 +234,15 @@ agreement](https://www.braintreepayments.com/legal/bank-agreement-us).
 
 1. Nonprofits and Charities using Gratipay
 
-  1. If your Project is associated with a nonprofit organization, soliciting
-     payments on Gratipay may subject you to certain state laws regarding
-charitable solicitations, including various registration, reporting, and audit
-requirements. You are solely responsible for compliance with these and any
-other applicable law or regulation.
+  1. If you are a nonprofit organization, soliciting payments on Gratipay may
+     subject you to certain state laws regarding charitable solicitations,
+including various registration, reporting, and audit requirements. You are
+solely responsible for compliance with these and any other applicable law or
+regulation.
 
   1. Gratipay makes no representation or warranty regarding the tax-exempt
-     status of any Project, or the tax-deductible status of any payment made
-via the Service.
+     status of any Project Owner, or the tax-deductible status of any payment
+made via the Service.
 
 1. Copyright Policy
 
