@@ -41,8 +41,8 @@ these Terms.
      establishes a Project is the Project Owner. Projects may optionally have
 other Participants as Collaborators. The Project Owner is also a Collaborator.
 
-  1. A Participant may give payments to a Project. A Participant who gives
-     payments to a Project is a Giver.
+  1. A Participant may make payments to a Project Owner via a Project. A
+     Participant who makes payments via a Project is a Giver.
      
   1. Projects and their Work must be consistent with Gratipay's [Brand
      Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
@@ -53,21 +53,21 @@ Use Policy.
 
 1. Terms for Project Owners
 
-  1. A Project can use the Service to receive payments from Givers for Work
-     provided by the Project. When you establish a Project on the Service, you
-agree that payments will be used exclusively to support the Work described in
-your Project's profile.
+  1. A Project Owner can use the Service to receive payments from Givers for
+     Work provided by the Project's Collaborators. When you establish a Project
+on the Service, you agree that payments will be used exclusively to support the
+Work described in your Project's profile.
 
   1. By accepting a payment from a Giver, the Project Owner forms an agreement
      with that Giver to provide the Project's Work. The Service is a platform
 to facilitate this agreement. Gratipay is not a party to the agreement, and is
-not responsible to either the Project or the Giver if either party breaches the
-terms of the agreement (e.g. if the Project fails to provide the promised goods
-or services).
+not responsible to either the Project Owner or the Giver if either party
+breaches the terms of the agreement (e.g. if the Project Owner fails to provide
+the promised goods or services).
 
-  1. A Project can only begin receiving payments from Givers once the Project
-     Owner has provided a working withdrawal mechanism for receiving payments
-(e.g. bank account information).
+  1. A Project Owner can only begin receiving payments from Givers once the
+     Project Owner has provided a working withdrawal mechanism for receiving
+payments (e.g. bank account information).
 
   1. Establishing a Project on Gratipay involves an application and approval
      process. As part of this process, the Gratipay community will have the
@@ -77,18 +77,19 @@ take any other action regarding a Project belong solely to Gratipay.
 
 1. Terms for Collaborators
 
-  1. Projects can use the Service to distribute payments to Collaborators.
+  1. Project Owners can use the Service to distribute payments to
+     Collaborators.
 
   1. When you become a Collaborator, you agree that payments to you by the
-     Project are made exclusively because of your collaboration in the Work
-described in the Project's profile.
+     Project Owner are made exclusively because of your collaboration in the
+Work described in the Project's profile.
 
   1. By becoming a Collaborator, the Collaborator forms an agreement with that
-     Project to collaborate in the Work described in the Project's profile. The
-Service is a platform to facilitate this agreement. Gratipay is not a party to
-the agreement, and is not responsible to either the Project or the Collaborator
-if either party breaches the terms of the agreement (e.g. if the Collaborator
-fails to provide the promised goods or services).
+     Project Owner to collaborate in the Work described in the Project's
+profile. The Service is a platform to facilitate this agreement. Gratipay is
+not a party to the agreement, and is not responsible to either the Project
+Owner or the Collaborator if either party breaches the terms of the agreement
+(e.g. if the Collaborator fails to provide the promised goods or services).
 
   1. Gratipay does not determine how payments are allocated and is not
      responsible for how Projects internally distribute payments. The agreement
@@ -97,23 +98,24 @@ payments is solely between those parties.
 
 1. Terms for Givers
 
-  1. When you make a payment to a Project, it is a payment to fund the Work
-     described in the Project's profile. You understand and acknowledge that
-your payment does not entitle you personally to receive any goods or services
-from the Project, unless the Project explicitly offers those things to Givers.
+  1. When you make a payment to a Project Owner, it is a payment to fund the
+     Work described in the Project's profile. You understand and acknowledge
+that your payment does not entitle you personally to receive any goods or
+services from the Project Owner, unless the Project Owner explicitly offers
+those things to Givers.
 
   1. Gratipay is not obligated to provide refunds under any circumstance.
-     Projects are responsible for producing the work they offer. Gratipay does
-not hold funds on behalf of Projects, and does not warrant or guarantee that
-Projects will provide the work they promise.
+     Project Owners are responsible for producing the Work they offer. Gratipay
+does not hold funds on behalf of Project Owners, and does not warrant or
+guarantee that Project Owners will provide the Work they promise.
 
 1. Fees and Taxes
 
-  1. Gratipay does not take any fee from payments made by Givers to Projects,
-     or by Projects to Collaborators. Gratipay and the Service are funded
-through the Service itself, by voluntary payments from Givers who wish to fund
-our own Work. To contribute to Gratipay, please [visit Gratipay's Project
-page](/Gratipay/).
+  1. Gratipay does not take any fee from payments made by Givers to Project
+     Owners, or by Project Owners to Collaborators. Gratipay and the Service
+are funded through the Service itself, by voluntary payments from Givers who
+wish to fund our own Work. To contribute to Gratipay, please [visit Gratipay's
+Project page](/Gratipay/).
 
   1. You are responsible for paying any third-party fees associated with your
      use of the Service, such as credit card and bank fees.
