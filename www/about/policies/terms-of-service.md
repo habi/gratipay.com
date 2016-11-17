@@ -46,9 +46,6 @@ these Terms.
   1. A Participant may make payments to a Project Owner via a Project. A
      Participant who makes payments via a Project is a Giver.
 
-  1. Gratipay reserves the right to reject, suspend, or remove a Project at any
-     time, and for any reason.
-
 1. Terms for Project Owners
 
   1. A Project Owner can use the Service to receive payments from Givers for
@@ -72,6 +69,9 @@ payments (e.g. bank account information).
 opportunity to publicly evaluate and provide commentary about the Project.
 However, all decisions regarding whether to accept, reject, suspend, remove, or
 take any other action regarding a Project belong solely to Gratipay.
+
+  1. Gratipay reserves the right to reject, suspend, or remove a Project at any
+     time, and for any reason.
 
 1. Terms for Collaborators
 
