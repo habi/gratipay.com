@@ -41,8 +41,8 @@ these Terms.
      establishes a Project is the Project Owner. Projects may optionally have
 other Participants as Collaborators. The Project Owner is also a Collaborator.
 
-  1. A Participant may give payments to a Project. A Participant who gives payments
-     to a Project is a Giver.
+  1. A Participant may give payments to a Project. A Participant who gives
+     payments to a Project is a Giver.
      
   1. Projects and their Work must be consistent with Gratipay's [Brand
      Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
@@ -58,10 +58,10 @@ Use Policy.
 agree that payments will be used exclusively to support the Work described in
 your Project's profile.
 
-  1. By accepting a payment from a Giver, the Project Owner forms an agreement with
-     that Giver to provide the Project's Work. The Service is a platform to
-facilitate this agreement. Gratipay is not a party to the agreement, and is not
-responsible to either the Project or the Giver if either party breaches the
+  1. By accepting a payment from a Giver, the Project Owner forms an agreement
+     with that Giver to provide the Project's Work. The Service is a platform
+to facilitate this agreement. Gratipay is not a party to the agreement, and is
+not responsible to either the Project or the Giver if either party breaches the
 terms of the agreement (e.g. if the Project fails to provide the promised goods
 or services).
 
@@ -83,12 +83,12 @@ take any other action regarding a Project belong solely to Gratipay.
      Project are made exclusively because of your collaboration in the Work
 described in the Project's profile.
 
-  1. By becoming a Collaborator, the Collaborator forms an agreement
-     with that Project to collaborate in the Work described in the Project's
-profile. The Service is a platform to facilitate this agreement. Gratipay is
-not a party to the agreement, and is not responsible to either the Project or
-the Collaborator if either party breaches the terms of the agreement (e.g. if
-the Collaborator fails to provide the promised goods or services).
+  1. By becoming a Collaborator, the Collaborator forms an agreement with that
+     Project to collaborate in the Work described in the Project's profile. The
+Service is a platform to facilitate this agreement. Gratipay is not a party to
+the agreement, and is not responsible to either the Project or the Collaborator
+if either party breaches the terms of the agreement (e.g. if the Collaborator
+fails to provide the promised goods or services).
 
   1. Gratipay does not determine how payments are allocated and is not
      responsible for how Projects internally distribute payments. The agreement
