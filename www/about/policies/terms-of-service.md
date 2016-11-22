@@ -56,6 +56,8 @@ these Terms.
 on the Service, you agree that payments via the Project will be used
 exclusively to support the Work described in the Project's profile.
 
+  1. Project Owners may only make payments to a Collaborator for their contributions.
+
   1. Gratipay is not a party to any agreement between Project Owners and
      Givers, and is not responsible to either the Project Owner or the Giver if
 either party breaches the terms of any such agreement (e.g. if the Project
@@ -79,9 +81,8 @@ take any other action regarding a Project belong solely to Gratipay.
   1. Project Owners can use the Service to distribute payments to
      Collaborators.
 
-  1. When you become a Collaborator, you agree that payments to you by the
-     Project Owner are made exclusively because of your collaboration in the
-Work described in the Project's profile.
+  1. Collaborators can receive payments from Project Owners because of their 
+     collaboration in the Project's Work and for no other reason.
 
   1. Gratipay is not a party to any agreement between Project Owners and
      Collaborators, and is not responsible to either the Project Owner or the
@@ -101,10 +102,11 @@ acknowledge that your payment does not entitle you personally to receive any
 goods or services from the Project Owner, unless the Project Owner explicitly
 offers those things to Givers.
 
-  1. Gratipay is not obligated to provide refunds under any circumstance.
-     Project Owners are responsible for producing the Work they offer. Gratipay
-does not hold funds on behalf of Project Owners, and does not warrant or
-guarantee that Project Owners will provide the Work they promise.
+  1. Project Owners are the only party responsible to Givers for producing the 
+     Work their Project describes. Gratipay is not obligated to provide refunds 
+to Givers or produce work under any circumstance. Gratipay does not hold funds 
+on behalf of Project Owners, and does not warrant or guarantee that Project Owners 
+will provide the Work they promise.
 
 1. Fees and Taxes
 
