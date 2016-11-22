@@ -40,8 +40,8 @@ these Terms.
   1. The Service is a platform to facilitate payments for goods or services
      ("Work").
 
-  1. A Participant may establish a Project on the Service. The Participant who
-     establishes a Project is the Project Owner.
+  1. A Participant may establish a Project on the Service. A Participant who 
+     establishes a Project is also a Project Owner.
 
   1. Projects may optionally have other Participants as Collaborators. The
      Project Owner is also a Collaborator.
@@ -89,14 +89,14 @@ Collaborator if either party breaches the terms of any such agreement (e.g. if
 the Collaborator fails to provide the promised goods or services).
 
   1. Gratipay does not determine how payments are allocated and is not
-     responsible for how Project Owners distribute payments. The agreement
+     responsible for how Project Owners distribute payments. Any agreement
 between the Project's Owner and other Collaborators regarding the allocation of
 payments is solely between those parties.
 
 1. Terms for Givers
 
   1. When you make a payment via a Project to a Project Owner, it is a payment
-     to fund the Work described in the Project's profile. You understand and
+     to pay for the Work described in the Project's profile. You understand and
 acknowledge that your payment does not entitle you personally to receive any
 goods or services from the Project Owner, unless the Project Owner explicitly
 offers those things to Givers.
