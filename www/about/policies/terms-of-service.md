@@ -183,48 +183,48 @@ permissible, for example as fair use.
 
   1. The following conduct is prohibited on the Service:
 
-    * Illegal activities, including the promotion or solicitation of illegal
+    1. Illegal activities, including the promotion or solicitation of illegal
       acts.
 
-    * Malicious activity or content, such as the transmission of viruses,
-      malware, or any other malicious or destructive code, or content or
-activity intended to harm or disrupt the hardware, networks, or infrastructure
-of Gratipay or any third parties.
+    1. Malicious activity or content, such as the transmission of viruses,
+      malware, or any other malicious or destructive code, or content or activity 
+      intended to harm or disrupt the hardware, networks, or infrastructure of 
+      Gratipay or any third parties.
 
-    * Unauthorized access, including: accessing or attempting to access any
-      non-public interface, system, or functionality of the Service, or testing
-the Service for vulnerabilities, except as described in our [security
-disclosure policy](/about/security/).
+    1. Unauthorized access, including: accessing or attempting to access any
+      non-public interface, system, or functionality of the Service, or testing the 
+      Service for vulnerabilities, except as described in our 
+      [security disclosure policy](/about/security/).
 
-    * Abuse, including threats of violence or harassment of a Participant
+    1. Abuse, including threats of violence or harassment of a Participant
       through repeated unwanted contact.
 
-    * Posting anyone's personal or confidential information, such as social
-      security numbers, credit card numbers, street addresses, phone numbers,
-confidential ID numbers, or account passwords, without their permission.
+    1. Posting anyone's personal or confidential information, such as social
+      security numbers, credit card numbers, street addresses, phone numbers, 
+      confidential ID numbers, or account passwords, without their permission.
 
-    * Aggressive trolling or activism.
+    1. Aggressive trolling or activism.
 
-    * Account hijacking, including any access to or use of another
+    1. Account hijacking, including any access to or use of another
       Participant's account without their permission.
 
-    * Child exploitation, including any content or activity that exploits or
+    1. Child exploitation, including any content or activity that exploits or
       abuses children.
 
-    * Spam, including posting unsolicited promotional or commercial content in
-      comments, sending invitations for the purpose of advertising to the
-recipients, or posting content or links for the purpose of manipulating search
-or other algorithms.
+    1. Spam, including posting unsolicited promotional or commercial content in
+      comments, sending invitations for the purpose of advertising to the 
+      recipients, or posting content or links for the purpose of manipulating search 
+      or other algorithms.
 
-    * Intellectual property infringement, including the infringing use of third
-      party trademarks or the unauthorized and unlawful posting of copyrighted
-content. We respond to reports of copyright infringement as described in the
-Copyright Policy.
+    1. Intellectual property infringement, including the infringing use of third
+      party trademarks or the unauthorized and unlawful posting of copyrighted 
+      content. We respond to reports of copyright infringement as described in the 
+      Copyright Policy.
 
-    * Fraud or impersonation, including any use of the Service to impersonate
-      or deceive others. Contests or promotions that violate any applicable law
-or regulation, or that suggest in any way that Gratipay is involved in or
-responsible for the activity.
+    1. Fraud or impersonation, including any use of the Service to impersonate
+      or deceive others. Contests or promotions that violate any applicable law 
+      or regulation, or that suggest in any way that Gratipay is involved in or 
+      responsible for the activity.
 
 1. Gratipay's Service Providers
 
