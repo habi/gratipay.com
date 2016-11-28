@@ -238,7 +238,7 @@ agreement](https://www.braintreepayments.com/legal/bank-agreement-us).
 1. Nonprofits and Charities using Gratipay
 
   1. If you are a nonprofit organization, soliciting payments on Gratipay may
-     subject you to certain state laws regarding charitable solicitations,
+     subject you to local laws regarding charitable solicitations,
 including various registration, reporting, and audit requirements. You are
 solely responsible for compliance with these and any other applicable law or
 regulation.
