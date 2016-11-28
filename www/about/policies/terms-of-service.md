@@ -37,8 +37,9 @@ these Terms.
 
 1. General Terms
 
-  1. The Service is a platform to facilitate payments for goods or services
-     ("Work"). The scope of Work is defined by Projects.
+  1. The Service is a platform to facilitate payments for goods or services. 
+       The nature and scope of such goods or services (the "Work") is defined 
+by each Project.
 
   1. A Participant may establish a Project on the Service. A Participant who 
      establishes a Project is also a Project Owner.
