@@ -57,8 +57,8 @@ each Project.
 on the Service, you agree that payments via the Project will be used
 exclusively to support the Work described in the Project's profile.
 
-  1. Project Owners may only make payments to a Collaborator for their
-     contributions.
+  1. Project Owners can make payments to Collaborators because of their
+     collaboration in the Project's Work and for no other reason.
 
   1. Gratipay is not a party to any agreement between Project Owners and
      Givers, and is not responsible to either the Project Owner or the Giver if
