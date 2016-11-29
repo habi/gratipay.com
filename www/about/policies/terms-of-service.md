@@ -110,8 +110,8 @@ obligated to provide refunds to Givers or produce work under any circumstance.
   1. Gratipay does not take any fee from payments made by Givers to Project
      Owners, or by Project Owners to Collaborators. Gratipay and the Service
 are funded through the Service itself, by voluntary payments from Givers who
-wish to fund our own Work. To contribute to Gratipay, please [visit Gratipay's
-Project page](/Gratipay/).
+wish to fund our own Work. To contribute to Gratipay, please visit Gratipay's
+[Project page for the Service](/Gratipay/).
 
   1. You are responsible for paying any third-party fees associated with your
      use of the Service, such as credit card and bank fees.
