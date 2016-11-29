@@ -37,11 +37,11 @@ these Terms.
 
 1. General Terms
 
-  1. The Service is a platform to facilitate payments for goods or services. 
-       The nature and scope of such goods or services (the "Work") is defined 
-by each Project.
+  1. The Service is a platform to facilitate payments for goods or services.
+     The nature and scope of such goods or services (the "Work") is defined by
+each Project.
 
-  1. A Participant may establish a Project on the Service. A Participant who 
+  1. A Participant may establish a Project on the Service. A Participant who
      establishes a Project is also a Project Owner.
 
   1. Projects may optionally have other Participants as Collaborators. The
@@ -57,7 +57,8 @@ by each Project.
 on the Service, you agree that payments via the Project will be used
 exclusively to support the Work described in the Project's profile.
 
-  1. Project Owners may only make payments to a Collaborator for their contributions.
+  1. Project Owners may only make payments to a Collaborator for their
+     contributions.
 
   1. Gratipay is not a party to any agreement between Project Owners and
      Givers, and is not responsible to either the Project Owner or the Giver if
@@ -82,7 +83,7 @@ take any other action regarding a Project belong solely to Gratipay.
   1. Project Owners can use the Service to distribute payments to
      Collaborators.
 
-  1. Collaborators can receive payments from Project Owners because of their 
+  1. Collaborators can receive payments from Project Owners because of their
      collaboration in the Project's Work and for no other reason.
 
   1. Gratipay is not a party to any agreement between Project Owners and
@@ -103,11 +104,11 @@ acknowledge that your payment does not entitle you personally to receive any
 goods or services from the Project Owner, unless the Project Owner explicitly
 offers those things to Givers.
 
-  1. Project Owners are the only party responsible to Givers for producing the 
-     Work their Project describes. Gratipay is not obligated to provide refunds 
-to Givers or produce work under any circumstance. Gratipay does not hold funds 
-on behalf of Project Owners, and does not warrant or guarantee that Project Owners 
-will provide the Work they promise.
+  1. Project Owners are the only party responsible to Givers for producing the
+     Work their Project describes. Gratipay is not obligated to provide refunds
+to Givers or produce work under any circumstance. Gratipay does not hold funds
+on behalf of Project Owners, and does not warrant or guarantee that Project
+Owners will provide the Work they promise.
 
 1. Fees and Taxes
 
@@ -184,47 +185,47 @@ permissible, for example as fair use.
   1. The following conduct is prohibited on the Service:
 
     1. Illegal activities, including the promotion or solicitation of illegal
-      acts.
+       acts.
 
     1. Malicious activity or content, such as the transmission of viruses,
-      malware, or any other malicious or destructive code, or content or activity 
-      intended to harm or disrupt the hardware, networks, or infrastructure of 
-      Gratipay or any third parties.
+       malware, or any other malicious or destructive code, or content or
+activity intended to harm or disrupt the hardware, networks, or infrastructure
+of Gratipay or any third parties.
 
     1. Unauthorized access, including: accessing or attempting to access any
-      non-public interface, system, or functionality of the Service, or testing the 
-      Service for vulnerabilities, except as described in our 
-      [security disclosure policy](/about/security/).
+       non-public interface, system, or functionality of the Service, or
+testing the Service for vulnerabilities, except as described in our [security
+disclosure policy](/about/security/).
 
     1. Abuse, including threats of violence or harassment of a Participant
-      through repeated unwanted contact.
+       through repeated unwanted contact.
 
     1. Posting anyone's personal or confidential information, such as social
-      security numbers, credit card numbers, street addresses, phone numbers, 
-      confidential ID numbers, or account passwords, without their permission.
+       security numbers, credit card numbers, street addresses, phone numbers,
+confidential ID numbers, or account passwords, without their permission.
 
     1. Aggressive trolling or activism.
 
     1. Account hijacking, including any access to or use of another
-      Participant's account without their permission.
+       Participant's account without their permission.
 
     1. Child exploitation, including any content or activity that exploits or
-      abuses children.
+       abuses children.
 
     1. Spam, including posting unsolicited promotional or commercial content in
-      comments, sending invitations for the purpose of advertising to the 
-      recipients, or posting content or links for the purpose of manipulating search 
-      or other algorithms.
+       comments, sending invitations for the purpose of advertising to the
+recipients, or posting content or links for the purpose of manipulating search
+or other algorithms.
 
-    1. Intellectual property infringement, including the infringing use of third
-      party trademarks or the unauthorized and unlawful posting of copyrighted 
-      content. We respond to reports of copyright infringement as described in the 
-      Copyright Policy.
+    1. Intellectual property infringement, including the infringing use of
+       third party trademarks or the unauthorized and unlawful posting of
+copyrighted content. We respond to reports of copyright infringement as
+described in the Copyright Policy.
 
     1. Fraud or impersonation, including any use of the Service to impersonate
-      or deceive others. Contests or promotions that violate any applicable law 
-      or regulation, or that suggest in any way that Gratipay is involved in or 
-      responsible for the activity.
+       or deceive others. Contests or promotions that violate any applicable
+law or regulation, or that suggest in any way that Gratipay is involved in or
+responsible for the activity.
 
 1. Gratipay's Service Providers
 
@@ -238,9 +239,9 @@ agreement](https://www.braintreepayments.com/legal/bank-agreement-us).
 1. Nonprofits and Charities using Gratipay
 
   1. If you are a nonprofit organization, soliciting payments on Gratipay may
-     subject you to local laws regarding charitable solicitations,
-including various registration, reporting, and audit requirements. You are
-solely responsible for compliance with these and any other applicable law or
+     subject you to local laws regarding charitable solicitations, including
+various registration, reporting, and audit requirements. You are solely
+responsible for compliance with these and any other applicable law or
 regulation.
 
   1. Gratipay makes no representation or warranty regarding the tax-exempt
