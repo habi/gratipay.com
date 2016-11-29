@@ -65,10 +65,6 @@ exclusively to support the Work described in the Project's profile.
 either party breaches the terms of any such agreement (e.g. if the Project
 Owner fails to provide the promised goods or services).
 
-  1. A Project Owner can only begin receiving payments from Givers once the
-     Project Owner has provided a working withdrawal mechanism for receiving
-payments (e.g. bank account information).
-
   1. Establishing a Project on Gratipay involves an application and approval
      process. As part of this process, the Gratipay community will have the
 opportunity to publicly evaluate and provide commentary about the Project.
@@ -105,10 +101,9 @@ goods or services from the Project Owner, unless the Project Owner explicitly
 offers those things to Givers.
 
   1. Project Owners are the only party responsible to Givers for producing the
-     Work their Project describes. Gratipay is not obligated to provide refunds
-to Givers or produce work under any circumstance. Gratipay does not hold funds
-on behalf of Project Owners, and does not warrant or guarantee that Project
-Owners will provide the Work they promise.
+     Work their Project describes. Gratipay does not warrant or guarantee that
+Project Owners will provide the Work they promise, and Gratipay is not
+obligated to provide refunds to Givers or produce work under any circumstance.
 
 1. Fees and Taxes
 
