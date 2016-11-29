@@ -99,7 +99,7 @@ payments is solely between those parties.
 1. Terms for Givers
 
   1. When you make a payment via a Project to a Project Owner, it is a payment
-     to pay for the Work described in the Project's profile. You understand and
+     for the Work described in the Project's profile. You understand and
 acknowledge that your payment does not entitle you personally to receive any
 goods or services from the Project Owner, unless the Project Owner explicitly
 offers those things to Givers.
