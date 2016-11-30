@@ -39,7 +39,7 @@ these Terms.
 
   1. The Service is a platform to facilitate payments for goods or services.
      The nature and scope of such goods or services (the "Work") is defined by
-Projects established by Participants on the Service.
+Projects established on the Service.
 
   1. A Participant who establishes a Project is also a Project Owner.
 
